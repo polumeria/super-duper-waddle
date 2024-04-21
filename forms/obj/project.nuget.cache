@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWDGXG4fmiIKl+gjm22BBHoQ/kI/6UxoOEQQb0vrFEY6VEpZB3z5ubxOJ8kR6qdFbmuUfW0PzgovyjUzfzE1TA==",
+  "success": true,
+  "projectFilePath": "/home/holodok/visual_studio/csharp_p/forms/forms.csproj",
+  "expectedPackageFiles": [
+    "/home/holodok/.nuget/packages/mstest.testadapter/3.0.4/mstest.testadapter.3.0.4.nupkg.sha512",
+    "/home/holodok/.nuget/packages/mstest.testframework/3.0.4/mstest.testframework.3.0.4.nupkg.sha512",
+    "/home/holodok/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.17/microsoft.netcore.app.host.linux-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

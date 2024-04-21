@@ -1,0 +1,15 @@
+/home/holodok/visual_studio/csharp_p/forms/bin/Debug/net7.0/forms
+/home/holodok/visual_studio/csharp_p/forms/bin/Debug/net7.0/forms.deps.json
+/home/holodok/visual_studio/csharp_p/forms/bin/Debug/net7.0/forms.runtimeconfig.json
+/home/holodok/visual_studio/csharp_p/forms/bin/Debug/net7.0/forms.dll
+/home/holodok/visual_studio/csharp_p/forms/bin/Debug/net7.0/forms.pdb
+/home/holodok/visual_studio/csharp_p/forms/obj/Debug/net7.0/forms.GeneratedMSBuildEditorConfig.editorconfig
+/home/holodok/visual_studio/csharp_p/forms/obj/Debug/net7.0/forms.AssemblyInfoInputs.cache
+/home/holodok/visual_studio/csharp_p/forms/obj/Debug/net7.0/forms.AssemblyInfo.cs
+/home/holodok/visual_studio/csharp_p/forms/obj/Debug/net7.0/forms.csproj.CoreCompileInputs.cache
+/home/holodok/visual_studio/csharp_p/forms/obj/Debug/net7.0/forms.dll
+/home/holodok/visual_studio/csharp_p/forms/obj/Debug/net7.0/refint/forms.dll
+/home/holodok/visual_studio/csharp_p/forms/obj/Debug/net7.0/forms.pdb
+/home/holodok/visual_studio/csharp_p/forms/obj/Debug/net7.0/forms.genruntimeconfig.cache
+/home/holodok/visual_studio/csharp_p/forms/obj/Debug/net7.0/ref/forms.dll
+/home/holodok/visual_studio/csharp_p/forms/obj/Debug/net7.0/forms.csproj.AssemblyReference.cache
