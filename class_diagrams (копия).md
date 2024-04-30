@@ -1,9 +1,7 @@
 ```mermaid
 classDiagram
-class BankAccount{
-+String owner
-+BigDecimal balance
-+deposit(amount)
-+withdrawl(amount)
+class CheckerTest{
++String actingStrings
++Checker.CheckString(word)
 }
 ```
