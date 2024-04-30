@@ -1,5 +1,5 @@
 ```mermaid
-classDiagram LR
+classDiagram
 class BankAccount{
 +String owner
 +BigDecimal balance
